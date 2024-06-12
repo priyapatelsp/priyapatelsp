@@ -40,6 +40,9 @@
 </div>
 
 <br/>
-</p>
+
+
+![Snake animation](https://github.com/priyapatels/priyapatelsp/blob/output/github-contribution-grid-snake.svg)
+ 
 
 <br/>
