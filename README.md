@@ -42,7 +42,7 @@
 <br/>
 
 
-![Snake animation](https://github.com/priyapatels/priyapatelsp/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/priyapatelsp/priyapatelsp/blob/output/github-contribution-grid-snake.svg)
  
 
 <br/>
