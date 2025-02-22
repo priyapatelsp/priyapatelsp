@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **advanced software development topics**
+ 🌱 I’m currently learning **advanced software development topics and AI **
 
 💬 Ask me about **Java, Python, Node.js, React, MongoDB...**
 
