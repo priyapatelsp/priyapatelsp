@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **advanced software development topics and AI **
+ 🌱 I’m currently learning **advanced Software Development topics and AI**
 
 💬 Ask me about **Java, Python, Node.js, React, MongoDB...**
 
@@ -27,6 +27,9 @@
   </a>
   <a href="https://leetcode.com/u/PriyaPatelsp/" target="_blank">
      <img src="https://img.shields.io/badge/Leetcode-FF5722?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /> 
+  </a>
+    <a href="https://priyapatelsp.github.io/priyapatel/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio Website-FFD700?style=for-the-badge&logo=web&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
